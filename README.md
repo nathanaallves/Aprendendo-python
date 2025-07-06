@@ -1,4 +1,7 @@
-# Aprendendo Python 🐍
+
+![image](https://github.com/user-attachments/assets/d3bb6d9d-7ff9-4a1e-aecd-034b5d7b2166)
+# Aprendendo Python 
+
 
 Este repositório foi criado com o objetivo de acompanhar meu aprendizado na linguagem de programação Python. Aqui você encontrará exercícios, exemplos práticos e anotações organizadas por tópicos.
 
